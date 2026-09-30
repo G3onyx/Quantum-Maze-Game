@@ -1,0 +1,30 @@
+# Ignore Godot 4+ specific files
+/android/
+godot-project/.import/
+godot-project/.godot/
+godot-project/.mono/
+godot-project/*.tmp
+godot-project/*.import
+
+"original quality cutscenes"/
+releases/
+*.exe
+*.ogv
+*.pck
+
+# Ignore Obsidian settings and snapshots
+Quantum Maze Game - Vault/.obsidian/
+Quantum Maze Game - Vault/.trash/
+Quantum Maze Game - Vault/.DS_Store
+
+.obsidian/
+.godot/
+
+# General OS and IDE-specific ignores (optional but helpful)
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db*.uid
